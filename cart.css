@@ -22,6 +22,7 @@ header {
 
 .logo a {
   color: rgb(255, 255, 255);
+  font-family: 'Pacifico', cursive;
   font-size: 35px;
   font-weight: 500;
   text-decoration: none;
@@ -64,6 +65,7 @@ header {
 
 .navbar a {
   color: #fff;
+  font-family: 'Pacifico', cursive;
   font-size: 25px;
   text-decoration: none;
   transition-duration: 0.5s;
@@ -263,6 +265,11 @@ footer {
   align-items: center;
   color:white;
  
+}
+
+.footer0{
+  font-family: 'Pacifico', cursive;
+  font-size: 20px;
 }
 
 .footer1 {
